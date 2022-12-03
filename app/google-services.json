@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498803785952",
+    "firebase_url": "https://testemateus-39a09-default-rtdb.firebaseio.com",
+    "project_id": "testemateus-39a09",
+    "storage_bucket": "testemateus-39a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498803785952:android:fa63924c4977765690d085",
+        "android_client_info": {
+          "package_name": "com.example.rentoolstcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498803785952-0uidbo0t20b64hhnmk05oc7ma3gv55bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentoolstcc",
+            "certificate_hash": "ac208f80f99c8fc08c9a4589a6ab54f0ad7d2a40"
+          }
+        },
+        {
+          "client_id": "498803785952-albnk891up1lbelrb280l9kf56drhdgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFukKq__2QLStuXmXI53CaueKxgmUH8V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498803785952-albnk891up1lbelrb280l9kf56drhdgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
